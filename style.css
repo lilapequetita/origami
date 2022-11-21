@@ -1,0 +1,14 @@
+#menu{
+    list-style:none;
+}
+.item{
+    float:left;
+    padding:10px;
+}
+a{
+    text-decoration:none;
+}
+body{
+    text-align:center;
+    background-color:limegreen;
+}

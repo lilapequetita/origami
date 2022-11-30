@@ -1,14 +1,29 @@
-#menu{
-    list-style:none;
+body {
+    text-align: center;
+    
 }
-.item{
-    float:left;
-    padding:10px;
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
 }
-a{
-    text-decoration:none;
+
+#intro{
+    background-color: rgb(182, 220, 238);
 }
-body{
-    text-align:center;
-    background-color:limegreen;
+
+#origami1{
+
+}
+
+#origami2{
+
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
 }
